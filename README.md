@@ -1,1 +1,2 @@
 # EthicalHacking
+#redo into classes
